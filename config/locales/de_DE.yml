@@ -119,7 +119,7 @@ de_DE:
       shared_access:
         info: "Wenn diese Option deaktiviert wird, wird dadurch der Button aus den Raumoptionen entfernt und verhindert, dass Nutzer Räume teilen können"
         title: Nutzern erlauben Räume zu teilen
-      subtitle: Greenlight individuell anpassen
+      subtitle: VidEducatet individuell anpassen
       tabs:
         appearance: Darstellung
         administration: Administration
@@ -371,7 +371,7 @@ de_DE:
         signup_link: Registrieren
         valid: "Die Einladung ist gültig bis: %{date}"
         signup:
-          info: Ein eingeladener Nutzer hat sich bei Greenlight registriert.
+          info: Ein eingeladener Nutzer hat sich bei VidEducate registriert.
           admins_link: Organisationsseite besuchen
           subject: Registrierung neuer Greenlight-Nutzer
           username: "Der Nutzer hat sich mit dem Namen %{name} und der E-Mail %{email} registriert."
